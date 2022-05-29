@@ -23,7 +23,7 @@ git clone https://github.com/Shreya0706/Recognition
 ```
 ### Application file : [Recognition.apk]([https://drive.google.com/file/d/1ggOo4acHOodrdCP2MkfUv4DJlL_VDZH4/view?usp=sharing](https://drive.google.com/file/d/1yAspmBz7A5MiPI-iLp_c0e-CEkg3mQHb/view?usp=sharing))
 
-## Usage
+<!-- ## Usage
 <table>
   <tr>
     <td><b>1.Add Face</b></td>
@@ -50,7 +50,7 @@ git clone https://github.com/Shreya0706/Recognition
     <td><img src="demo/actions.jpeg" width=270 height=480></td>
     <td><img src="demo/view_reco.jpeg" width=270 height=480></td>
   </tr>
- </table>
+ </table> -->
 # Action Items
 - [ ] Improve Performance(Code Optimization)
 - [ ] Auto face orientation for Import Photo Action.
