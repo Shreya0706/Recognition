@@ -8,12 +8,15 @@ Recognition module which can be easily incorporated in any Android project.
 - Save Recognitions for further use.
 - Real-Time and offline.
 - Simple UI.
+- Anti theft feature for device
+- Alarm on recognising Missing People
 
 ## Tools and Frameworks used:
 - Android Studio (Java)
 - CameraX
 - ML Kit
 - TensorFlow Lite
+- Sensors
 ## Installation
 
 Use Import from Version Control in Android Studio or Clone repo and open the project in Android Studio.
