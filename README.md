@@ -33,7 +33,6 @@ git clone https://github.com/Shreya0706/Recognition
   </tr>
   <tr>
     <td><img src="demo/add_face.gif" width=270 height=480></td>
-  <td><img src="demo/import photo.gif" width=270 height=480></td>
     <td><img src="demo/recognize_face.gif" width=270 height=480></td>
   
   </tr>
@@ -50,7 +49,6 @@ git clone https://github.com/Shreya0706/Recognition
   <tr>
     <td><img src="demo/actions.jpeg" width=270 height=480></td>
     <td><img src="demo/view_reco.jpeg" width=270 height=480></td>
-    <td><img src="demo/update_reco.jpeg" width=270 height=480></td>
   </tr>
  </table>
 # Action Items
