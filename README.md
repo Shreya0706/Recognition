@@ -19,7 +19,7 @@ Recognition module which can be easily incorporated in any Android project.
 Use Import from Version Control in Android Studio or Clone repo and open the project in Android Studio.
 
 ```bash
-git clone https://github.com/atharvakale31/Face_Recognition_Android.git
+git clone https://github.com/Shreya0706/Recognition
 ```
 ### Application file : [Recognition.apk](https://drive.google.com/file/d/1ggOo4acHOodrdCP2MkfUv4DJlL_VDZH4/view?usp=sharing)
 
