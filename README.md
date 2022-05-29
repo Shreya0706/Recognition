@@ -21,7 +21,7 @@ Use Import from Version Control in Android Studio or Clone repo and open the pro
 ```bash
 git clone https://github.com/Shreya0706/Recognition
 ```
-### Application file : [Recognition.apk]([https://drive.google.com/file/d/1ggOo4acHOodrdCP2MkfUv4DJlL_VDZH4/view?usp=sharing](https://drive.google.com/file/d/1yAspmBz7A5MiPI-iLp_c0e-CEkg3mQHb/view?usp=sharing))
+### Application file : [Recognition.apk](https://drive.google.com/file/d/1yAspmBz7A5MiPI-iLp_c0e-CEkg3mQHb/view?usp=sharing)
 
 <!-- ## Usage
 <table>
